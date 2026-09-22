@@ -62,7 +62,8 @@ This document lists all the hardware components required to build the ESP32 Dasa
 | :--- | :--- | :--- | :--- | :--- |
 | **U1** | Microcontroller | ESP32-WROOM-32 DevKit V1 | 1 | The main brain of the Mochi. (NodeMCU or similar 30/38 pin board works). |
 | **DISP1** | OLED Display | 0.96" or 1.3" SSD1306 | 1 | I2C communication (4-pin: GND, VCC, SCL, SDA). |
-| **SW1** | Push Button | 6x6x5mm Tactile Switch | 1 | *(Optional)* For changing faces or modes manually. |
+| **TOUCH SENSOR** | Touch Sensor | TTP233h | 1 | *(Optional)* For changing faces or modes manually. |
+| **BUZZER** | Buzzer | Small Buzzer | 1 | *(Optional)* For emulating the Dasai Mochi noises. |
 | **CBL1** | USB Cable | Micro-USB or USB-C | 1 | For programming and powering the ESP32 (check your specific DevKit). |
 | **HW1** | Wires | Dupont Jumper Wires | 1 set | Female-to-Female if connecting directly, or Male-to-Female for a breadboard. |
 | **PCB1** | Prototyping | Breadboard / Perfboard | 1 | For assembling and testing the circuit before custom PCB fabrication. |
