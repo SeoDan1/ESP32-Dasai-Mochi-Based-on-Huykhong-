@@ -3,7 +3,7 @@
 This document lists all the hardware prices. (as of 22/9/2026)
 
 | Item | Price (RM) |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- |
 | **Pinecil V1** | RM93 |
 | **Solder** | ~RM5 |
 | **Flux** | (Optional) ~RM3 |
