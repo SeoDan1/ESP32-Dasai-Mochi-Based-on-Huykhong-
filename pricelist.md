@@ -8,7 +8,7 @@ This document lists all the hardware prices. (as of 22/9/2026)
 | **Solder** | ~RM5 |
 | **Flux** | (Optional) ~RM3 |
 | **ESP32-C3** | ~RM10 |
-| **TTP2223 Touch Sensor** | ~RM1 |
+| **TTP223 Touch Sensor** | ~RM1 |
 | **Buzzer** | ~RM1 |
 | **Switch** | ~RM1 |
 | **Copper Wire** | ~RM3 |
