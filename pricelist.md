@@ -16,4 +16,5 @@ This document lists all the hardware prices. (as of 22/9/2026)
 | **402030 200mAh Battery** | ~RM9 |
 | **0.96" OLED Display** | ~RM9 |
 | **3D Printed Case** | ~RMXX |
+| **RUNNING TOTAL** | RM137 |
 
