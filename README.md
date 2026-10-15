@@ -40,6 +40,9 @@ Connect the Touch Sensor and Buzzer
 Open https://themochi.huykhong.com/ and connect ESP32.
 Upon Flashing, device will boot up.
 
+Alternatively, design will be done on:
+https://www.oledanimationmaker.com/
+
 # Bill of Materials (BOM)
 
 This document lists all the hardware components required to build the ESP32 Dasai Mochi project.
