@@ -43,6 +43,13 @@ Upon Flashing, device will boot up.
 Alternatively, design will be done on:
 https://www.oledanimationmaker.com/
 
+## Enclosure
+
+3D Printed Enclosure was taken from Leroyd's Yeti Design, available at:
+https://makerworld.com/en/models/2109424-compagnon-309-build-your-expressive-robot?from=search#profileId-2281938
+
+STL file is included in this repository.
+
 # Bill of Materials (BOM)
 
 This document lists all the hardware components required to build the ESP32 Dasai Mochi project.
@@ -56,5 +63,6 @@ This document lists all the hardware components required to build the ESP32 Dasa
 | **CBL1** | USB Cable | Micro-USB or USB-C | 1 | For programming and powering the ESP32 (check your specific DevKit). |
 | **HW1** | Wires | Dupont Jumper Wires | 1 set | Female-to-Female if connecting directly, or Male-to-Female for a breadboard. |
 | **PCB1** | Prototyping | Breadboard / Perfboard | 1 | For assembling and testing the circuit before custom PCB fabrication. |
+| **3D Printed Shell** | Enclosure | 1 | To hide electronics. |
 
 *Note: If you plan to add OBD2/CAN Bus integration to read car telemetry in the future, you will also need an MCP2515 CAN Bus module.*
