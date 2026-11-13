@@ -33,7 +33,7 @@ Connect the Touch Sensor and Buzzer
 ### Schematic
 *(Note: Replace the image link below once you upload your schematic to the repository)*
 
-![Project Schematic](Hardware/Schematics/placeholder_schematic.png)
+![Project Schematic](Project Schematics.jpeg)
 
 ## 💻 Firmware & Software Setup
 
