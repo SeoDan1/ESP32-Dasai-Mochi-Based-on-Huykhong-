@@ -2,6 +2,10 @@
 
 An open-source, DIY animated dashboard companion powered by the ESP32 and an OLED display. This project aims to replicate and expand upon the beloved "Dasai Mochi" concept, allowing for custom animations, expressions, and hardware logging.
 
+## 🤖 Final Build
+<img width="810" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f619aff-0ddf-49cb-9c77-5b03bd1e6196" />
+
+
 ## 🌟 Features
 *   **Animated Expressions:** A variety of idle, happy, sad, and angry faces.
 *   **ESP32 Powered:** Plenty of memory for smooth, frame-by-frame animations.
