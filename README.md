@@ -31,9 +31,7 @@ Connect the Touch Sensor and Buzzer
 | `GPIO 18` | `Buzzer` | Buzzer Control |
 
 ### Schematic
-*(Note: Replace the image link below once you upload your schematic to the repository)*
-
-![Project Schematic](Project Schematics.jpeg)
+<img width="763" height="1080" alt="Project Schematic" src="https://github.com/user-attachments/assets/ec90e3d5-5481-4564-9cd3-f455e9a971d2" />
 
 ## 💻 Firmware & Software Setup
 
